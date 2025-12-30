@@ -37,3 +37,6 @@ tzdata==2025.3
 urllib3==2.6.2
 uv==0.9.18
 watchdog==6.0.0
+pypdf==4.0.1
+python-docx==0.8.11
+openpyxl==3.11.0
